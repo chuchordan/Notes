@@ -4,7 +4,7 @@
 
 > **Requeriments**
 
-* 1. [Nodejs](https://nodejs.org/es/) (Required)
+* [Nodejs](https://nodejs.org/es/) (Required)
 
 **`#` Linux Instalation**
 
@@ -16,8 +16,8 @@ sudo n stable
 sudo ln -sf /usr/local/n/versions/node/<VERSION>/bin/node /usr/bin/nodejs
 sudo n latest
 ```
-* 2. [Typescript](https://www.typescriptlang.org/) (Required)
-* 3. [Angular CLI](https://cli.angular.io/) (Required)
+* [Typescript](https://www.typescriptlang.org/) (Required)
+* [Angular CLI](https://cli.angular.io/) (Required)
 
 **`#` To update angular cli se debe correr los siguientes comandos:**
 
